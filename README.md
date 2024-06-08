@@ -13,7 +13,7 @@ The lab was designed to guide me through setting up a Fastify Node.js web server
 - **Adding Fastify to Project Using npm, and Testing Using VSCode:** I installed Fastify via npm and verified the setup by testing the server in Visual Studio Code.
 - **Adding a Git Repository, Excluding node_modules Folder from Git, and Making Commits:** I initialized a Git repository, added necessary files, excluded the `node_modules` folder, and made initial commits to track project changes.
 - **Fixing MIME Error, Testing, and Committing:** I identified and resolved MIME type errors, tested the solution, and committed the changes to the repository.
-- **Adding a Second Route with Query Parameters, Testing, and Committing:** I implemented a second route in the Fastify server that handles query parameters, tested the functionality, and committed the updates.
+- **Adding a Second Route with Query Parameters, testing, and committing:** I implemented a second route in the Fastify server that handles query parameters, tested the functionality, and committed the updates.
 
 ## Lab Experience
 
